@@ -28,11 +28,11 @@
 		"prettier": "^3.8.1",
 		"prettier-plugin-svelte": "^3.5.1",
 		"sass": "^1.99.0",
-		"svelte": "^5.55.1",
+		"svelte": "^5.56.10",
 		"svelte-check": "^4.4.6",
 		"typescript": "^6.0.2",
 		"typescript-eslint": "^8.58.0",
-		"vite": "^8.0.3"
+		"vite": "^8.2.2"
 	},
 	"homepage": "https://graphite.art",
 	"license": "Apache-2.0",
